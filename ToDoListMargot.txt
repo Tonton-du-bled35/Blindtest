@@ -1,0 +1,5 @@
+-creer les divs de chaque "zones" comme le score, le décompte, ou il y aura le logo
+
+-disposer les div au bon endroit
+
+titi
