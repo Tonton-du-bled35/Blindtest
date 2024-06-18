@@ -39,3 +39,12 @@
     align-items: center;
     justify-content: center;
 }
+
+.boxChat {
+    background-color: #E8D3B4;
+    border-radius: 10px;
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
