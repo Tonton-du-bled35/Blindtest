@@ -73,7 +73,7 @@
     border: solid;
     border-radius: 50px ;
     /*police*/
-    font-size: 80;
+    font-size: 800;
     font-weight: 900;
 }
 
@@ -84,6 +84,6 @@
     border: solid;
     border-radius: 40px ;
     /*police*/
-    font-size: 50;
+    font-size: 100;
     font-weight: 900;
 }
