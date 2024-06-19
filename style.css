@@ -88,29 +88,10 @@
     font-weight: 900;
 }
 
-
-<!-- test -->
-
-<div class="blue">
-    <div class="orange">
-        <div class="yellow">
-            
-        </div>
-        <div class="yellow">
-
-        </div>
-    </div>
-    <div class="orange">
-        <div class="yellow">
-            
-        </div>
-        <div class="yellow">
-
-        </div>
-    </div>
-
-    <div class="orange">
-        <div class="yellow">
-
-        </div>
-        <div class="yellow">
+.blue {
+    background-color: blue;
+    border: solid;
+    border-radius: 40px;
+    font-size: 20px;
+    font-weight: 900;
+}
