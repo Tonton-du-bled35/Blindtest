@@ -72,6 +72,9 @@
     background-color: gray;
     border: solid;
     border-radius: 50px ;
+    /*police*/
+    font-size: 30;
+    font-weight: 900;
 }
 
 #btnPlus{
@@ -80,4 +83,7 @@
     background-color: gray;
     border: solid;
     border-radius: 40px ;
+    /*police*/
+    font-size: 30;
+    font-weight: 900;
 }
