@@ -48,3 +48,17 @@
     align-items: center;
     justify-content: center;
 }
+
+
+/* code de la div contenant les boutons pour jouer les sons */
+
+
+.boxBouton{
+    background-color: gray;
+    border-radius: 10px;
+    border-color: black;
+    align-items: center;
+    justify-content: center;
+
+
+}
