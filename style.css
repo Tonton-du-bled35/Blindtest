@@ -54,19 +54,22 @@
 
 
 .boxBouton{
-    background-color: gray;
+    background-color: pink;
+    border: solid;
     border-radius: 10px;
     border-color: black;
     align-items: center;
     justify-content: center;
-    width: 100px;
-    height: 20px;
+    width: 600px;
+    height: 150px;
 
 
 }
 
 #btnPlay{
-    width: 16px;
-    height: 16px;
-    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    border: solid;
+    border-radius: 50px ;
 }
