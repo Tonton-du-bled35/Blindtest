@@ -96,3 +96,9 @@
     font-weight: 50px;
     height: 80px;
 }
+
+.carre {
+    width: 100px; /* Largeur du carré */
+    height: 100px; /* Hauteur du carré */
+    background-color: #3498db; /* Couleur du carré */
+}
